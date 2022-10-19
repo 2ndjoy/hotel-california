@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Couple Room",
+        "quantity": "1",
+        "bed": "1",
+        "price": "10000",
+        "picture": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+        "id": "02",
+        "name": "Single Room",
+        "quantity": "1",
+        "bed": "1",
+        "price": "10000",
+        "picture": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": "03",
+        "name": "Family Room",
+        "quantity": "1",
+        "bed": "2",
+        "price": "20000",
+        "picture": "https://images.unsplash.com/photo-1590490360182-c33d57733427?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+    }
+]
